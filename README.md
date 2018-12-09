@@ -11,7 +11,7 @@ For usage of the C lib see the [docs](https://tulipindicators.org/usage)
 
 Include in the general manner, see the Swift Package Manager [docs](https://swift.org/package-manager/)
 
-The downstream wrapper is avaialable [here](https://github.com/lbdl/SwiftTulipIndicators)
+The downstream wrapper is available [here](https://github.com/lbdl/SwiftTulipIndicators)
 
 This package was built by running the amalgamate command from from the original library's Makefile to consolidate all of the C sources.
 
